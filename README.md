@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Blankson. My friends call me @BLANQEASE
+- 👋 Hi, I’m Paul Blankson. My friends call me @Blanqease
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate and contributing to open-source projects.
